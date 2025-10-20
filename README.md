@@ -13,7 +13,7 @@ Dev Tools for MarkEdit that leverages [markedit-api](https://github.com/MarkEdit
 
 ## Installation
 
-Copy [dist/markedit-devtools.js](dist/markedit-devtools.js) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
+Copy [dist/markedit-devtools.js](dist/markedit-devtools.js?raw=true) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
 
 You can also run `yarn install && yarn build` to build and deploy the script.
 
