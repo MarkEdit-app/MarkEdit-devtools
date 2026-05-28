@@ -1,6 +1,6 @@
 # MarkEdit-devtools
 
-Dev Tools for MarkEdit that leverages [markedit-api](https://github.com/MarkEdit-app/MarkEdit-api).
+Dev Tools for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) that leverages [markedit-api](https://github.com/MarkEdit-app/MarkEdit-api).
 
 ## Available Tools
 
