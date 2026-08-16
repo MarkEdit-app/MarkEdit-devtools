@@ -13,7 +13,7 @@ Dev Tools for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) that leverage
 
 ## Installation
 
-Copy [dist/markedit-devtools.js](dist/markedit-devtools.js?raw=true) to `~/Library/Containers/app.cyan.markedit/Data/Documents/scripts/`.
+Install this extension from the [MarkEdit Extension Registry](https://markedit-app.github.io/extensions/#markedit-devtools).
 
 You can also run `yarn install && yarn build` to build and deploy the script.
 
