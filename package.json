@@ -1,6 +1,6 @@
 {
   "name": "markedit-devtools",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Dev Tools for MarkEdit.",
   "scripts": {
     "build": "vite build",
@@ -15,17 +15,16 @@
     "@types/crypto-js": "^4.2.2",
     "@types/he": "^1.2.3",
     "@types/node": "^22.0.0",
-    "@types/uuid": "^10.0.0",
-    "markedit-api": "https://github.com/MarkEdit-app/MarkEdit-api#v0.6.0",
-    "markedit-vite": "https://github.com/MarkEdit-app/MarkEdit-vite#v0.1.0",
+    "markedit-api": "https://github.com/MarkEdit-app/MarkEdit-api#v0.30.0",
+    "markedit-vite": "https://github.com/MarkEdit-app/MarkEdit-vite#v0.5.0",
     "typescript": "^5.0.0",
-    "vite": "^5.0.0"
+    "vite": "^8.0.0"
   },
   "dependencies": {
     "change-case": "^5.4.4",
     "crypto-js": "^4.2.0",
     "he": "^1.2.0",
     "title-case": "^4.3.2",
-    "uuid": "^10.0.0"
+    "uuid": "^14.0.0"
   }
 }
